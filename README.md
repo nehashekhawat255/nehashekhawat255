@@ -1,6 +1,6 @@
-[![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)](https://nehashekhawat255.io)
+![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)
 <h1 align="center">Hey!!👋, I'm Neha Kanwar</h1>
-<h3 align="center">Enthusiastic Computer Science Student | Bachelor's in Computer Application Candidate 2024</h3>
+<h3 align="center">Enthusiastic Computer Science Student | Bachelor's in Computer Application 2024</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehashekhawat255&label=Profile%20views&color=0e75b6&style=flat" alt="nehashekhawat255" /> </p>
