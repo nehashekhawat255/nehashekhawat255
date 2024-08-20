@@ -1,13 +1,11 @@
-![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)
-<h1 align="center">Hey!!👋, I'm Neha Kanwar</h1>
-<h3 align="center">Enthusiastic Computer Science Student | Bachelor's in Computer Application 2024</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<h2>Hey!!👋, Myself Neha Kanwar</h2>
+<h3>Glad to see you here!! 🤩 I'm pursuing Master's in Computer Application from Lovely Professional University, Jalandhar</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehashekhawat255&label=Profile%20views&color=0e75b6&style=flat" alt="nehashekhawat255" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nehakanwar30" target="blank"><img src="https://img.shields.io/twitter/follow/nehakanwar30?logo=twitter&style=for-the-badge" alt="nehakanwar30" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/nehakanwar30" target="blank"><img src="https://img.shields.io/twitter/follow/nehakanwar30?logo=twitter&style=for-the-badge" alt="nehakanwar30" /></a> </p>
 
-- 🌱 I’m currently learning **DSA & JavaScript**
+- 🌱 I’m currently learning **DSA & Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nehashekhawat255](https://github.com/nehashekhawat255)
 
@@ -33,11 +31,14 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
-
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehashekhawat255&show_icons=true&locale=en&layout=compact" alt="nehashekhawat255" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nehashekhawat255&" alt="nehashekhawat255" /></p>
+
+<div align="center">
+
+### Explore my repositories to know more about me!!!
+
+</div>
