@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehashekhawat255&label=Profile%20views&color=0e75b6&style=flat" alt="nehashekhawat255" /> </p>
 
-<p align="left"> <a href="https://linkedin.com/nehakanwar30" target="blank"><img src="https://img.shields.io/twitter/follow/nehakanwar30?logo=twitter&style=for-the-badge" alt="nehakanwar30" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/nehakanwar30" target="blank"><img src="https://img.shields.io/twitter/follow/nehakanwar30?logo=twitter&style=for-the-badge" alt="nehakanwar30" /></a> </p>
 
 - 🌱 I’m currently learning **DSA & Web Development**
 
