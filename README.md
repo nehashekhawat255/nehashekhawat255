@@ -1,5 +1,5 @@
 <h2>Hey!!👋, Myself Neha Kanwar</h2>
-<h3>Glad to see you here!! 🤩 I'm pursuing Master's in Computer Application from Lovely Professional University, Jalandhar</h3> 
+<h3>I'm pursuing Master's in Computer Application from Lovely Professional University, Jalandhar</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehashekhawat255&label=Profile%20views&color=0e75b6&style=flat" alt="nehashekhawat255" /> </p>
 
